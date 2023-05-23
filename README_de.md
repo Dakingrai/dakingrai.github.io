@@ -66,7 +66,7 @@ Das Minimal Light-Thema berücksichtigt die folgenden Variablen, wenn es in der 
 title: Ihren Namen
 position: Ph.D. Student
 affiliation: Ihre Zugehörigkeit
-email: yourname (at) example.edu
+email: daking (at) example.edu
 
 # Suchmaschinenoptimierung (SEO)
 # Die folgenden Informationen werden verwendet, um den Website-Traffic von Suchmaschinen, z. B. Google, zu verbessern.
