@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-Hi, I'am a PhD student at George Mason University, advised by [https://ziyuyao.org/][Prof. Ziyu Yao]. I research in the field of interpretability of neural networks and its practical usage. Although neural networks exhibit remarkable performance across a broad spectrum of tasks, their inherent opaqueness poses a significant challenge.  This motivates my research to investigate the inner workings of neural networks through mechanistic interpretability, a subfield of interpretability that attempts to understand neural networks by reverse engineering them. 
+Hi, I'am a PhD student at George Mason University, advised by Prof. Ziyu Yao. I research in the field of interpretability of neural networks and its practical usage. Although neural networks exhibit remarkable performance across a broad spectrum of tasks, their inherent opaqueness poses a significant challenge.  This motivates my research to investigate the inner workings of neural networks through mechanistic interpretability, a subfield of interpretability that attempts to understand neural networks by reverse engineering them. 
 
 
 ## News
