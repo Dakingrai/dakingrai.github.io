@@ -19,7 +19,6 @@
       <a href="https://arxiv.org/abs/2305.17378" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="https://github.com/Dakingrai/ood-generalization-semantic-boundary-techniques" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
     </div>
-    </div>
   </div>
 </div>
 </li>
@@ -40,7 +39,6 @@
       <a href="https://arxiv.org/abs/2301.13820" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
     </div>
     </div>
-  </div>
 </div>
 </li>
   
