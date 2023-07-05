@@ -8,8 +8,8 @@ Hi, I'am a PhD student at George Mason University, advised by [Prof. Ziyu Yao](h
 
 ## News
 
-- **[July. 2023]** Recieved the Graduate Student Travel Fund from GMU!
-- **[May. 2023]** Short paper accepted in ACL 23.
+- **[July. 2023]** Recieved the [Graduate Student Travel Fund](https://graduate.gmu.edu/financial-support/conference-travel-funding) from GMU!
+- **[May. 2023]** Short paper accepted in [ACL 23](https://2023.aclweb.org/).
 - **[April. 2023]** Volunteer for MASC-SLL 2023, an annual NLP event in the Mid-Atlantic area!
 - **[Feb. 2023]** Presented poster in AAAI 23.
 - **[Nov. 2021]**  Student abstract accepted to AAAI23.
