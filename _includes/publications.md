@@ -28,17 +28,16 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/paper2.JPG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/paper1.JPG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ACL</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.17378">Improving Generalization in Language Model-Based Text-to-SQL Semantic Parsing: Two Simple Semantic Boundary-Based Techniques</a></div>
-    <div class="author"><strong>Daking Rai</strong>, Bailin Wang, Yilun Zhou, Ziyu Yao</div>
-    <div class="periodical"><em>Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2023.</em></div>
+    <div class="title"><a href="https://arxiv.org/abs/2305.17378">Explaining Large Language Model-Based Neural Semantic Parsers (Student Abstract)</a></div>
+    <div class="author"><strong>Daking Rai</strong>, Yilun Zhou, Bailin Wang, Ziyu Yao</div>
+    <div class="periodical"><em> <strong>AAAI </strong> Conference on Artificial Intelligence: Student Abstract and Poster Program, 2023.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2305.17378" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
-      <a href="https://github.com/Dakingrai/ood-generalization-semantic-boundary-techniques" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://arxiv.org/abs/2301.13820" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
     </div>
     </div>
   </div>
