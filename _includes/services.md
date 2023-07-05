@@ -12,6 +12,6 @@
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.mascsll.org/"><autocolor>Secondary reviewer for <strong> NeurIPS’23 </strong></autocolor></a></li>
+  <li><a href="https://nips.cc/"><autocolor>Secondary reviewer for <strong> NeurIPS’23 </strong></autocolor></a></li>
   
 </ul>
