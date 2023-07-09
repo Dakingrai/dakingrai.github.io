@@ -32,7 +32,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2305.17378">Explaining Large Language Model-Based Neural Semantic Parsers (Student Abstract)</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2301.13820">Explaining Large Language Model-Based Neural Semantic Parsers (Student Abstract)</a></div>
     <div class="author"><strong>Daking Rai</strong>, Yilun Zhou, Bailin Wang, Ziyu Yao</div>
     <div class="periodical"><em> <strong>AAAI </strong> Conference on Artificial Intelligence: Student Abstract and Poster Program, 2023.</em></div>
     <div class="links">
