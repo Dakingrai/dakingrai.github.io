@@ -12,6 +12,7 @@
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li>Served as a reviewer for <strong>AAAI’25, ARR June’24, AAAI’24</strong>.
   <li><a href="https://nips.cc/"><autocolor>Served as a secondary reviewer for <strong> NeurIPS’23 </strong></autocolor></a></li>
   
 </ul>
