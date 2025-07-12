@@ -7,6 +7,8 @@ Hi, I'am a PhD student at George Mason University, advised by [Prof. Ziyu Yao](h
 
 
 ## News
+- We are organizing a [The First Workshop on the Application of LLM Explainability to Reasoning and Planning](https://xllm-reasoning-planning-workshop.github.io/) at COLM 2025! 
+- We will be giving a [Tutorial on Mechanistic Interpretability for Language Models](https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/) at ICML 2025!
 - **[Aug. 2024]**  Paper accepted in [ACL 24](https://2024.aclweb.org/).
 - **[July. 2023]** Recieved the [Graduate Student Travel Fund](https://graduate.gmu.edu/financial-support/conference-travel-funding) from GMU!
 - **[May. 2023]** Short paper accepted in [ACL 23](https://2023.aclweb.org/).
