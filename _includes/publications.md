@@ -14,7 +14,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2507.00322">An Failure by Interference: Language Models Make Balanced Parentheses Errors When Faulty Mechanisms Overshadow Sound Ones</a></div>
     <div class="author"><strong>Daking Rai</strong>, Samuel Miller, Kevin Moran, Ziyu Yao</div>
-    <div class="periodical"><em>Preprint</em></div>
+    <div class="periodical"><em>NeurIPS'25</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2507.00322" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
       <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
