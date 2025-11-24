@@ -1,0 +1,34 @@
+/* --- Thoughts / Blog Page Styles --- */
+
+.post-list {
+    margin-top: 40px;
+    max-width: 800px; /* Keeps lines from getting too long to read */
+}
+
+.post-item {
+    margin-bottom: 50px; /* Large gap between items, like the screenshot */
+}
+
+.post-meta {
+    font-family: 'Merriweather', Georgia, serif;
+    font-size: 0.85rem;
+    color: #666; /* Grey text */
+    margin-bottom: 8px;
+    text-transform: uppercase; /* Optional: makes the name/date look crisp */
+    letter-spacing: 0.5px;
+}
+
+.post-link {
+    font-family: 'Merriweather', Georgia, serif;
+    font-size: 1.6rem; /* Large, readable title */
+    color: #4f6d9e;    /* Your academic blue */
+    text-decoration: none;
+    line-height: 1.3;
+    display: block;    /* Makes the whole title line clickable */
+}
+
+/* Hover effect - Uses your new Pumpkin Orange */
+.post-link:hover {
+    color: #F06529; 
+    text-decoration: none;
+}
