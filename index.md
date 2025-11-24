@@ -118,6 +118,22 @@ title: Home
   </div>
 </div>
 
+## Talks
+
+<div class="paper-item">
+  <div class="paper-date">ICML 2025</div>
+  <div class="paper-details">
+    <a href="https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/" target="_blank">Tutorial on Mechanistic Interpretability for Language Models </a> at ICML2025.
+  </div>
+</div>
+
+<div class="paper-item">
+  <div class="paper-date">Invited Talk (George Washington Uni)</div>
+  <div class="paper-details">
+    <a href="#">Mechanistic Interpretability of Language Models </a> at George Washington University.
+  </div>
+</div>
+
 
 <img src="assets/images/one.gif" id="music-sticker" onclick="toggleMusic()" alt="Music Player">
 
