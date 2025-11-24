@@ -1,0 +1,16 @@
+a:hover {
+    color: #F06529; /* Pumpkin Orange */
+    text-decoration: underline;
+}
+
+/* This changes the color when you click and drag to highlight text with your cursor */
+::selection {
+    background: #F06529; /* Pumpkin Orange background */
+    color: #ffffff;      /* White text */
+}
+
+/* Firefox compatibility for selection */
+::-moz-selection {
+    background: #F06529;
+    color: #ffffff;
+}

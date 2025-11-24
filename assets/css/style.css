@@ -1,0 +1,407 @@
+body {
+
+font-family: 'Merriweather', Georgia, serif;
+
+color: #333;
+
+line-height: 1.6;
+
+margin: 0;
+
+padding: 0;
+
+background-color: #fafafa; /* Slightly off-white background */
+
+}
+
+
+
+a {
+
+color: #4f6d9e; /* Academic blue link color */
+
+text-decoration: none;
+
+}
+
+
+
+/* a:hover {
+
+text-decoration: underline;
+
+} */
+
+
+
+
+
+
+
+/* Layout Container */
+
+.site-wrapper {
+
+max-width: 900px;
+
+margin: 0 auto;
+
+padding: 40px 20px;
+
+}
+
+
+
+/* Header & Nav */
+
+.site-header {
+
+display: flex;
+
+justify-content: space-between;
+
+align-items: baseline;
+
+margin-bottom: 30px;
+
+}
+
+
+
+.site-title a {
+
+font-size: 2rem;
+
+color: #000;
+
+text-decoration: none;
+
+}
+
+
+
+.site-nav a {
+
+margin-left: 20px;
+
+color: #000;
+
+font-size: 1.2rem;
+
+}
+
+
+
+/* Bio Section */
+
+.profile-container {
+
+display: flex;
+
+gap: 40px;
+
+margin-bottom: 20px;
+
+}
+
+
+
+.profile-img {
+
+width: 280px;
+
+height: 320px;
+
+object-fit: cover;
+
+border-radius: 2px; /* Slight rounding, or remove for sharp edges */
+
+}
+
+
+
+.profile-text {
+
+flex: 1;
+
+font-size: 1.1rem;
+
+}
+
+
+
+/* Papers Section */
+
+h2 {
+
+font-size: 1.8rem;
+
+font-weight: normal;
+
+margin-bottom: 30px;
+
+border-bottom: 1px solid #eee; /* Optional: adds a subtle separator */
+
+padding-bottom: 10px;
+
+}
+
+
+
+.news-h2 {
+
+font-size: 1.8rem;
+
+font-weight: normal;
+
+border-bottom: 1px solid #eee; /* Optional: adds a subtle separator */
+
+}
+
+
+
+.paper-item {
+
+display: flex; /* Enables side-by-side layout */
+
+align-items: baseline; /* Aligns text perfectly on the first line */
+
+margin-bottom: 24px; /* Adds breathing room between papers */
+
+}
+
+
+
+.paper-date {
+
+flex: 0 0 150px; /* FORCE width to 150px. Won't shrink. */
+
+padding-right: 20px; /* Gap between date and title */
+
+
+color: #666; /* Grey color for date */
+
+font-size: 0.9rem; /* Slightly smaller text */
+
+font-weight: 500; /* Make it readable */
+
+}
+
+
+
+.paper-details {
+
+flex: 1; /* Takes up all remaining space */
+
+}
+
+
+
+/* Optional: Make the title bold or normal */
+
+.paper-title {
+
+color: #111;
+
+font-weight: 400; /* Use 700 if you want bold titles */
+
+}
+
+
+
+/* Responsive for mobile */
+
+@media (max-width: 600px) {
+
+.profile-container {
+
+flex-direction: column;
+
+}
+
+.site-header {
+
+flex-direction: column;
+
+}
+
+.site-nav {
+
+margin-top: 15px;
+
+}
+
+.site-nav a {
+
+margin-left: 0;
+
+margin-right: 15px;
+
+}
+
+}
+
+
+
+
+
+
+
+
+
+/* News Scrollbox Container */
+
+.news-box {
+
+max-height: 200px; /* Adjust this number to make the box taller/shorter */
+
+overflow-y: auto; /* This creates the vertical scrollbar */
+
+
+padding-right: 15px; /* Space so text doesn't touch the scrollbar */
+
+margin-bottom: 15px; /* Space between News and Papers */
+
+
+font-size: 0.95rem; /* Slightly smaller text for news items */
+
+border-left: 3px solid #eee; /* Optional: A nice subtle line on the left */
+
+padding-left: 20px;
+
+padding-bottom: 5px;
+
+}
+
+
+
+.news-item {
+
+margin-bottom: 5px;
+
+line-height: 1.5;
+
+}
+
+
+
+/* Custom Scrollbar Styling (Webkit only - Chrome/Safari/Edge) */
+
+.news-box::-webkit-scrollbar {
+
+width: 8px;
+
+}
+
+
+
+.news-box::-webkit-scrollbar-track {
+
+background: #f1f1f1;
+
+border-radius: 4px;
+
+}
+
+
+
+.news-box::-webkit-scrollbar-thumb {
+
+background: #ccc;
+
+border-radius: 4px;
+
+}
+
+
+
+.news-box::-webkit-scrollbar-thumb:hover {
+
+background: #bbb;
+
+}
+
+
+
+/* Add this to style.css below .news-box */
+
+
+
+.news-list {
+
+/* Changed from 20px to 40px for better indentation */
+
+padding-left: 40px;
+
+}
+
+.news-list li {
+
+margin-bottom: 5px;
+
+/* Optional: This ensures the text aligns cleanly if it wraps to a second line */
+
+padding-left: 5px;
+
+}
+
+
+
+.news-list a:hover {
+
+color: #F06529; /* Your pumpkin orange */
+
+text-decoration: underline;
+
+}
+
+
+
+.news-box p {
+
+margin-bottom: 5px; /* Reduces space between header and list */
+
+margin-top: 0px; /* Reduces space above "Past news" (tightens the gap) */
+
+}
+
+
+
+/* Remove top margin for the very first header so it sits at the top */
+
+.news-box p:first-child {
+
+margin-top: 0;
+
+}
+
+
+/* Fixed Music Sticker */
+#music-sticker {
+    position: fixed; /* Pins it to the screen */
+    bottom: 60px;    /* Distance from bottom */
+    right: 20px;     /* Distance from right */
+    
+    width: 200px;     /* Adjust size as needed */
+    cursor: pointer; /* Shows hand cursor */
+    z-index: 1000;   /* Ensures it sits on top of everything */
+    
+    transition: transform 0.2s ease;
+    opacity: 0.8;    /* Slight transparency (optional) */
+}
+
+#music-sticker:hover {
+    transform: scale(1.1); /* Pop up slightly on hover */
+    opacity: 1;
+}
+
+/* Animation when music is playing */
+.dancing {
+    opacity: 1 !important;
+    animation: bounce 0.6s infinite alternate;
+}
+
+@keyframes bounce {
+    from { transform: translateY(0); }
+    to { transform: translateY(-10px); }
+}
