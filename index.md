@@ -138,7 +138,7 @@ title: Home
 </div>
 
 
-<!-- <img src="assets/images/one.gif" id="music-sticker" onclick="toggleMusic()" alt="Music Player">
+<img src="assets/images/one.gif" id="music-sticker" onclick="toggleMusic()" alt="Music Player">
 
 <audio id="bg-music" loop> 
   <source src="assets/files/music1.mp3" type="audio/mpeg">
@@ -157,7 +157,7 @@ title: Home
       sticker.classList.remove("dancing");
     }
   }
-</script> -->
+</script>
 
 
 
