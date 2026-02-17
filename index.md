@@ -9,7 +9,7 @@ title: Home
   <div class="profile-text">
     <p>Hi, I'm a PhD student at George Mason University advised by <a href="https://ziyuyao.org/" target="_blank"> Prof. Ziyu Yao</a>. I’m interested in understanding how language models work and applying those insights to practical applications such as improving model capabilities and controllability.  </p>
     
-    <p> I am actively seeking a <span style="font-weight: bold; color:#F06529">Summer 2026 internship</span>. My recent work centers around <a href="https://arxiv.org/pdf/2407.02646" target="_blank"> mechanistic interpretability (MI) </a> of language models, aiming to better understand how model perform reasoning and to leverage those insights to <span style="font-weight: bold; ">improve their reasoning capabilities</span>.  </p>
+    My recent work centers around <a href="https://arxiv.org/pdf/2407.02646" target="_blank"> mechanistic interpretability (MI) </a> of language models, aiming to better understand how model perform reasoning and to leverage those insights to <span style="font-weight: bold; ">improve their reasoning capabilities</span>.  </p>
 
     <!-- where I'm currently interested in developing a top-down MI framework for explaining model behaviors across levels of analysis, from mechanistic components (e.g., features, circuits) to high-level cognitive-like behaviors (e.g., reasoning). This is motivated by the uncertainty that low-level understanding will explain higher-level emergent behaviors. -->
     
@@ -29,13 +29,16 @@ title: Home
 
   <ul class="news-list">
     <li>
-    Attending NeurIPS (San Diego) to present my work on <a href="https://arxiv.org/pdf/2507.00322" target="_blank">Balanced Parentheses Errors</a>.
+    AI/ML Summer Research Intern at LinkedIN.
   </li>
   </ul>
 
   <br> <p><strong>Past news:</strong></p>
 
   <ul class="news-list">
+    <li>
+      Presented in NeurIPS'26 (San Diego) <a href="https://arxiv.org/pdf/2507.00322" target="_blank">Balanced Parentheses Errors</a>.
+    </li>
     <li>
         We organized <a href="https://xllm-reasoning-planning-workshop.github.io/" target="_blank">The First Workshop on the Application of LLM Explainability to Reasoning and Planning </a> at COLM2025.
     </li>
