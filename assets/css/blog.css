@@ -1,34 +1,204 @@
-/* --- Thoughts / Blog Page Styles --- */
+/* =============================================
+   BLOG INDEX PAGE
+   ============================================= */
 
 .post-list {
-    margin-top: 40px;
-    max-width: 800px; /* Keeps lines from getting too long to read */
+    margin-top: 60px;
+    max-width: 750px;
 }
 
 .post-item {
-    margin-bottom: 50px; /* Large gap between items, like the screenshot */
+    margin-bottom: 48px;
 }
 
 .post-meta {
     font-family: 'Merriweather', Georgia, serif;
-    font-size: 0.85rem;
-    color: #666; /* Grey text */
-    margin-bottom: 8px;
-    text-transform: uppercase; /* Optional: makes the name/date look crisp */
-    letter-spacing: 0.5px;
+    font-size: 0.82rem;
+    color: #555;
+    margin-bottom: 6px;
+    letter-spacing: 0.3px;
 }
 
 .post-link {
     font-family: 'Merriweather', Georgia, serif;
-    font-size: 1.6rem; /* Large, readable title */
-    color: #4f6d9e;    /* Your academic blue */
+    font-size: 1.55rem;
+    color: #3b4f7a;
     text-decoration: none;
-    line-height: 1.3;
-    display: block;    /* Makes the whole title line clickable */
+    line-height: 1.35;
+    display: block;
+    transition: color 0.2s ease;
 }
 
-/* Hover effect - Uses your new Pumpkin Orange */
 .post-link:hover {
-    color: #F06529; 
+    color: #F06529;
     text-decoration: none;
+}
+
+/* =============================================
+   INDIVIDUAL POST PAGE
+   ============================================= */
+
+.post-article {
+    max-width: 680px;
+    margin: 40px auto 80px;
+}
+
+.post-article-header {
+    margin-bottom: 50px;
+}
+
+.post-article-title {
+    font-family: 'Merriweather', Georgia, serif;
+    font-size: 2rem;
+    font-weight: 400;
+    color: #3b4f7a;
+    line-height: 1.3;
+    margin-bottom: 14px;
+    letter-spacing: -0.01em;
+}
+
+.post-article-meta {
+    font-family: 'Merriweather', Georgia, serif;
+    font-size: 0.88rem;
+    color: #777;
+    letter-spacing: 0.2px;
+}
+
+/* ---- Post Body Typography ---- */
+
+.post-article-body {
+    font-family: 'Merriweather', Georgia, serif;
+    font-size: 1.05rem;
+    color: #333;
+    line-height: 1.85;
+}
+
+.post-article-body p {
+    margin-bottom: 1.6em;
+}
+
+.post-article-body h2 {
+    font-size: 1.45rem;
+    font-weight: 400;
+    color: #222;
+    margin-top: 2.4em;
+    margin-bottom: 0.8em;
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.post-article-body h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #333;
+    margin-top: 2em;
+    margin-bottom: 0.6em;
+}
+
+.post-article-body blockquote {
+    margin: 2em 0;
+    padding: 0 0 0 1.4em;
+    border-left: 3px solid #ddd;
+    color: #555;
+    font-style: italic;
+}
+
+.post-article-body ul,
+.post-article-body ol {
+    margin-bottom: 1.6em;
+    padding-left: 1.8em;
+}
+
+.post-article-body li {
+    margin-bottom: 0.5em;
+}
+
+.post-article-body a {
+    color: #4f6d9e;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: rgba(79, 109, 158, 0.3);
+    transition: text-decoration-color 0.2s ease;
+}
+
+.post-article-body a:hover {
+    color: #F06529;
+    text-decoration-color: rgba(240, 101, 41, 0.4);
+}
+
+.post-article-body img {
+    max-width: 100%;
+    height: auto;
+    margin: 2em 0;
+    border-radius: 2px;
+}
+
+.post-article-body code {
+    font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+    font-size: 0.88em;
+    background: #f3f3f0;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+
+.post-article-body pre {
+    background: #f3f3f0;
+    padding: 1.2em 1.4em;
+    border-radius: 4px;
+    overflow-x: auto;
+    margin: 1.8em 0;
+    line-height: 1.5;
+}
+
+.post-article-body pre code {
+    background: none;
+    padding: 0;
+}
+
+.post-article-body hr {
+    border: none;
+    border-top: 1px solid #e5e5e5;
+    margin: 2.5em 0;
+}
+
+/* ---- Post Footer ---- */
+
+.post-article-footer {
+    margin-top: 60px;
+    padding-top: 24px;
+    border-top: 1px solid #eee;
+}
+
+.post-article-footer a {
+    font-family: 'Merriweather', Georgia, serif;
+    font-size: 0.92rem;
+    color: #4f6d9e;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.post-article-footer a:hover {
+    color: #F06529;
+}
+
+/* =============================================
+   RESPONSIVE
+   ============================================= */
+
+@media (max-width: 600px) {
+    .post-article {
+        margin: 20px auto 60px;
+    }
+
+    .post-article-title {
+        font-size: 1.55rem;
+    }
+
+    .post-article-body {
+        font-size: 1rem;
+    }
+
+    .post-link {
+        font-size: 1.3rem;
+    }
 }

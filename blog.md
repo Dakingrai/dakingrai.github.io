@@ -9,7 +9,7 @@ permalink: /blog/
   {% for post in site.posts %}
     <div class="post-item">
       <div class="post-meta">
-        Daking Rai - {{ post.date | date: "%-m/%-d/%y" }}
+        Daking Rai &ndash; {{ post.date | date: "%-m/%-d/%y" }}
       </div>
 
       <a class="post-link" href="{{ post.url | relative_url }}">
