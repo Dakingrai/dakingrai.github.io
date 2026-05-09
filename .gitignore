@@ -4,4 +4,13 @@ Gemfile.lock
 *.gem
 .DS_Store
 .jekyll-cache
+.jekyll-metadata
 git-update.sh
+node_modules
+vendor
+.bundle
+bench/results.jsonl
+results.tsv
+run.log
+jekyll.log
+package-lock.json
