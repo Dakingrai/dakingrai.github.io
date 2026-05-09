@@ -4,3 +4,16 @@ url: "https://dakingrai.github.io"
 baseurl: ""
 markdown: kramdown
 theme: null
+exclude:
+  - node_modules
+  - vendor
+  - bench
+  - "*.log"
+  - "*.tsv"
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - program.md
+  - reference-program.md
+  - README.md
