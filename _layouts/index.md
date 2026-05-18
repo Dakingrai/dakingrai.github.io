@@ -65,6 +65,13 @@ title: Home
 ## Papers
 
 <div class="paper-item">
+  <div class="paper-date">Pre-print 2026</div>
+  <div class="paper-details">
+    Data-driven Circuit Discovery for Interpretability of Language Models. (<a href="https://arxiv.org/pdf/2605.09129">Paper</a>)
+  </div>
+</div>
+
+<div class="paper-item">
   <div class="paper-date">NeurIPS 2025</div>
   <div class="paper-details">
     An Failure by Interference: Language Models Make Balanced Parentheses Errors When Faulty Mechanisms Overshadow Sound Ones. (<a href="https://arxiv.org/pdf/2507.00322">Paper</a>)
@@ -85,12 +92,7 @@ title: Home
   </div>
 </div>
 
-<div class="paper-item">
-  <div class="paper-date">Pre-print 2026</div>
-  <div class="paper-details">
-    Data-driven Circuit Discovery for Interpretability of Language Models. (<a href="https://arxiv.org/pdf/2605.09129">Paper</a>)
-  </div>
-</div>
+
 
 
 <div class="paper-item">
