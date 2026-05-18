@@ -57,6 +57,10 @@ title: Home
     Our paper, <a href="https://aclanthology.org/2025.emnlp-main.1565/" target="_blank"> All for one: Llms solve mental math at the last token with information transferred from other tokens </a> got accepted in EMNLP 2025.
   </li>
 
+  <li>
+    Released new pre-print: <a href="https://arxiv.org/pdf/2605.09129" target="_blank">Data-driven Circuit Discovery for Interpretability of Language Models</a> (May 2026).
+  </li>
+
 </ul>
 
 </div>
@@ -81,6 +85,13 @@ title: Home
   <div class="paper-date">Pre-print 2025</div>
   <div class="paper-details">
     A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models. (<a href="https://arxiv.org/abs/2407.02646">Paper</a>)
+  </div>
+</div>
+
+<div class="paper-item">
+  <div class="paper-date">Pre-print 2026</div>
+  <div class="paper-details">
+    Data-driven Circuit Discovery for Interpretability of Language Models. (<a href="https://arxiv.org/pdf/2605.09129">Paper</a>)
   </div>
 </div>
 
