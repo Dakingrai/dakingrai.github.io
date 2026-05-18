@@ -29,7 +29,7 @@ title: Home
 
   <ul class="news-list">
     <li>
-      Released new pre-print: <a href="https://arxiv.org/pdf/2605.09129" target="_blank">Data-driven Circuit Discovery for Interpretability of Language Models</a> (May 2026).
+      Published new pre-print: <a href="https://arxiv.org/pdf/2605.09129" target="_blank">Data-driven Circuit Discovery for Interpretability of Language Models</a> (May 2026).
    </li>
     <li>
     AI/ML Summer Research Intern at LinkedIN.
